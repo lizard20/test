@@ -1,2 +1,2 @@
 # test
-repository to learn git
+repository to test git
